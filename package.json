@@ -1,0 +1,27 @@
+{
+  "name": "smple-node-js-project",
+  "version": "1.0.0",
+  "description": "This is sample node js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dham6983/smple-node-js-project.git"
+  },
+  "keywords": [
+    "sample-js-project-for-weekend"
+  ],
+  "author": "Debabrata Shome",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dham6983/smple-node-js-project/issues"
+  },
+  "homepage": "https://github.com/dham6983/smple-node-js-project#readme",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
