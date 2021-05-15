@@ -1,1 +1,1 @@
-# smple-node-js-project
+# This is a sample nodejs project
