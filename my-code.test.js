@@ -10,9 +10,9 @@ test('Product 1 * 2 to equal 2', () => {
   });
 
   test('Minus of 1 - 2 to equal to -1', () => {
-    expect(minus(1,2)).toBe(-1)
+    expect(minus(1,2)).toBe(1);
   });
 
   test('Minus of 4 - 2 to equal to 2', () => {
-    expect(minus(4,2)).toBe(2)
+    expect(minus(4,2)).toBe(2);
   });
