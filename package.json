@@ -2,7 +2,7 @@
   "name": "smple-node-js-project",
   "version": "1.0.0",
   "description": "This is sample node js project",
-  "main": "index.js",
+  "main": "my-code.js",
   "scripts": {
     "test": "jest"
   },

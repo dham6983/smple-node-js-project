@@ -6,5 +6,7 @@ function  multi (num1 ,num2){
     return num1*num2
 }
 
-module.exports.add = add
-module.exports.multi = multi
+module.exports = {
+    add : add,
+    multi : multi
+}
